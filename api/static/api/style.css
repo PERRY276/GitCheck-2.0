@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #0f172a;
+    color: #e5e7eb;
+}
+
+.container {
+    max-width: 600px;
+    margin: 80px auto;
+    text-align: center;
+}
+
+input {
+    width: 100%;
+    padding: 12px;
+    margin: 10px 0;
+    font-size: 16px;
+}
+
+button {
+    padding: 12px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+pre {
+    text-align: left;
+    background: #020617;
+    padding: 15px;
+    margin-top: 20px;
+    overflow-x: auto;
+}
